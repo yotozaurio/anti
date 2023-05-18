@@ -1,0 +1,30 @@
+Fecha: ...
+Duración: ...
+Archivos sospechosos por extensión:
+Archivos con propietario o grupos erróneos: 25
+Nombre,Ruta,Tamaño,Propietario,Grupo,Extensión
+data031,DIR_INIT/d3/data031.ransom,10240,Sospechoso,Sospechoso,.ransom
+data031,DIR_INIT/d3/data031.ransom,10240,Sospechoso,Sospechoso,.ransom
+data066,DIR_INIT/d3/d3/d1/data066.gen,19460,Sospechoso,Sospechoso,.gen
+data073,DIR_INIT/d3/d1/data073.pwned,10310,Sospechoso,Sospechoso,.pwned
+data073,DIR_INIT/d3/d1/data073.pwned,10310,Sospechoso,Sospechoso,.pwned
+data012,DIR_INIT/d3/d1/data012.gen,8196,Sospechoso,Sospechoso,.gen
+data095,DIR_INIT/d3/d1/data095.gen,14339,Sospechoso,Sospechoso,.gen
+data094,DIR_INIT/d3/d1/d1/data094.gen,5123,Sospechoso,Sospechoso,.gen
+data084,DIR_INIT/d3/d2/data084.gen,13316,Sospechoso,Sospechoso,.gen
+data008,DIR_INIT/d3/d2/d3/data008.gen,3077,Sospechoso,Sospechoso,.gen
+data099,DIR_INIT/d1/data099.gen,14342,Sospechoso,Sospechoso,.gen
+data062,DIR_INIT/d1/d3/data062.gen,13316,Sospechoso,Sospechoso,.gen
+data017,DIR_INIT/d1/d3/data017.pirate,5127,Sospechoso,Sospechoso,.pirate
+data017,DIR_INIT/d1/d3/data017.pirate,5127,Sospechoso,Sospechoso,.pirate
+data067,DIR_INIT/d1/d3/d2/data067.gen,20484,Sospechoso,Sospechoso,.gen
+data081,DIR_INIT/d1/d1/data081.pirate,13330,Sospechoso,Sospechoso,.pirate
+data081,DIR_INIT/d1/d1/data081.pirate,13330,Sospechoso,Sospechoso,.pirate
+data008,DIR_INIT/d1/d2/data008.gen,8195,Sospechoso,Sospechoso,.gen
+data012,DIR_INIT/d1/d2/data012.bad,9280,Sospechoso,Sospechoso,.bad
+data012,DIR_INIT/d1/d2/data012.bad,9280,Sospechoso,Sospechoso,.bad
+data000,DIR_INIT/d2/data000.gen,20483,Sospechoso,Sospechoso,.gen
+data081,DIR_INIT/d2/data081.gen,15365,Sospechoso,Sospechoso,.gen
+data056,DIR_INIT/d2/data056.gen,8196,Sospechoso,Sospechoso,.gen
+data058,DIR_INIT/d2/d1/data058.gen,12291,Sospechoso,Sospechoso,.gen
+data007,DIR_INIT/d2/d2/d3/data007.gen,8198,Sospechoso,Sospechoso,.gen

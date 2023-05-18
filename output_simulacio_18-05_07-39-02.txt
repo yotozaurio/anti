@@ -1,0 +1,34 @@
+-- LISTA INFECTADOS:
+DIR_INIT/d1/d3/d2/data067.gen	['size']
+DIR_INIT/d1/d1/data081.pirate	['content', 'extension']
+     infecciones de contenido:['__KOMPROMISED__']
+
+DIR_INIT/d3/d1/data073.pwned	['size', 'content', 'extension']
+     infecciones de contenido:['__KOMPROMISED__', '__KOMPROMISED__', '__KOMPROMISED__', '__PWNED__', '__ERROR__']
+
+DIR_INIT/d3/d1/d1/data094.gen	['auth']
+DIR_INIT/d3/data031.ransom	['ransom']
+DIR_INIT/d1/d3/data017.pirate	['extension', 'auth']
+DIR_INIT/d1/d2/data008.gen	['auth']
+DIR_INIT/d3/d2/d3/data008.gen	['size', 'auth']
+DIR_INIT/d3/d1/data012.gen	['size']
+DIR_INIT/d1/d2/data012.bad	['content', 'extension']
+     infecciones de contenido:['__ERROR__', '__KOMPROMISED__', '__PWNED__', '__XUNGOL__', '__KOMPROMISED__']
+
+
+
+-- LISTA OK:
+DIR_INIT/d2/data000.gen
+DIR_INIT/d1/d3/data062.gen
+DIR_INIT/d3/d1/data095.gen
+DIR_INIT/d2/d1/data058.gen
+DIR_INIT/d2/data081.gen
+DIR_INIT/d1/data099.gen
+DIR_INIT/d3/d2/data084.gen
+DIR_INIT/d2/data056.gen
+DIR_INIT/d2/d2/d3/data007.gen
+DIR_INIT/d3/d3/d1/data066.gen
+
+
+-- LISTA RANSOM:
+DIR_INIT/d3/data031.ransom
