@@ -71,7 +71,7 @@ def guardar_configuracion(configuracion):
 while True:
     print("------ MENÚ PRINCIPAL ------")
     print("1. Opciones de configuración")
-    print("2. Otra opción del programa")
+    print("2. Analisis Rápido")
     print("3. Salir")
     opcion = input("Seleccione una opción: ")
 
@@ -101,6 +101,11 @@ while True:
             else:
                 print("Opción inválida. Intente de nuevo.")
     
+
+    elif opcion == "2":
+        
+        pass
+
     elif opcion == "3":
         break
     else:
